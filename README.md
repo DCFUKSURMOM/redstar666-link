@@ -23,3 +23,5 @@ Installed Wine 4.5
 Updated Linux firmware
 
 Download here: http://dcfuksurmom.duckdns.org/funstuff/linux/redstar666/
+
+This is a hard drive image, it needs to be flashed to a hard drive or flash drive. It is not an installer, it is a preinstalled system.
