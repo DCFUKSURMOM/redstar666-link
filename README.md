@@ -25,3 +25,5 @@ Updated Linux firmware
 Download here: http://dcfuksurmom.duckdns.org/funstuff/linux/redstar666/
 
 This is a hard drive image, it needs to be flashed to a hard drive or flash drive. THIS IS NOT AN INSTALLER, it is a preinstalled system.
+
+A Red Star Discord server I am in (not mine but its pretty cool): http://discord.gg/MY68R2Quq5
